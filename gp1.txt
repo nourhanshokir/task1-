@@ -1,0 +1,12 @@
+Mobile App for pharmaceuticals intake management 
+As a user I will register  using  my name* ,  birthdate * and the system will calculate the age automatically, country*, city* , address * , any chronic disease in my history *, Email, phone number , relative number using the app and finally I type the password of my account and confirm it. 
+As a user  I will select the medicines I need to take frequently   by typing first letters and the application will predict the name of the medicine. Then a text box will appear asking me how many times I will take it per day and what the time between each dose is.  
+As a system after the user select his medicine the pamphlet of this medicine will be shown in a clear way and wait his confirmation of reading for more safety. If the medicine is not suitable for the patient (for his age – conflict with his case) a warning will be shown for the user.  
+As a system at the dose time an alarm will ring to remind the user if there is no response the alarm will ring again after 15 minutes  and so on for 4 times, if there still no response the alarm will send a notification for the relative number . 
+If  the medicine is preferred to be taken after a meal  an alaram will ring before the dose 20 minute reminding the user to have his meal. 
+Before the last two pills a reminder  will appear to buy  new package . 
+A medical tip will appear to the user daily as a notification. 
+The user can scan the bar code of any medicine to get all the information about it using the camera. 
+A weekly report will be sent to the user . 
+ All the actions and medicine the user take are saved in his history . 
+In case the user forgot his password he can sign in  using the email by confirming the application mail
